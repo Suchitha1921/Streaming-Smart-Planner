@@ -1,0 +1,7 @@
+# Streaming Smart Planner Project Requirements
+# Currently using only standard libraries
+
+# Future recommendations (uncomment if used):
+# pandas
+# flask
+# tkinter
